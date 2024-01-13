@@ -16,7 +16,7 @@ Pong Game is a classic implementation of the Pong game using Python and the Pyga
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/PongGame.git
+   git clone https://github.com/fxrrhxn/Pong-Game.git
    ```
 
 2. Navigate to the project directory:
